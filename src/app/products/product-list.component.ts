@@ -12,6 +12,7 @@ pageTitle:string="Product List";
 imageWidth=50;
 imageMargin=2;
 showImage=false;
+listFilter='cart';
 products:any[]=[
      {
         "productId": 1,
